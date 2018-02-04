@@ -14,20 +14,11 @@
     
     <item>
       <title>Data Wranguling with R</title>
-      <link>/publication/person-re-identification/</link>
+      <link>/publication/r-for-data-handling/</link>
       <pubDate>Sun, 04 Feb 2018 00:00:00 +0000</pubDate>
       
-      <guid>/publication/person-re-identification/</guid>
+      <guid>/publication/r-for-data-handling/</guid>
       <description>This is my first book written in bookdown.</description>
-    </item>
-    
-    <item>
-      <title>Mobile visual clothing search</title>
-      <link>/publication/clothing-search/</link>
-      <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
-      
-      <guid>/publication/clothing-search/</guid>
-      <description>More detail can easily be written here using Markdown and $\rm \LaTeX$ math code.</description>
     </item>
     
   </channel>
