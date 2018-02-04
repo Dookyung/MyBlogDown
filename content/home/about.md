@@ -35,4 +35,4 @@ weight = 5
 
 # Biography
 
-Dookyung is a chief data scientist at the Bank of Korea. Her research interests include big data analysis, machine learning. He leads the Data Science Team, which develops the Data Analysis System and big data platform.
+Dookyung is a chief data scientist at the Bank of Korea. Her research interests include big data analysis, machine learning and reproducibel research. He leads the Data Science Team, which develops the Data Analysis System and big data platform.
