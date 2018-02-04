@@ -12,7 +12,8 @@ weight = 5
   interests = [
     "Big Data Analysis",
     "Machine Learning",
-    "Reproducible Research"
+    "Reproducible Research",
+    "R, Python, Excel VBA"
   ]
 
 # List your qualifications (such as academic degrees).
