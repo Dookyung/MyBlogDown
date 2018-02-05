@@ -27,8 +27,8 @@ weight = 5
   year = 2008
 
 [[education.courses]]
-  course = "BSc in Economics"
-  institution = "Sogang UMassachusetts Institute of Technology"
+  course = "BS in Economics"
+  institution = "Sogang University"
   year = 2000
  
 +++
