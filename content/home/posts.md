@@ -5,7 +5,7 @@ widget = "posts"
 active = true
 date = "2018-02-04T00:00:00"
 
-title = "Recent Posts"
+title = "Posts"
 subtitle = ""
 
 # Order that this section will appear in.
@@ -18,7 +18,7 @@ tags_include = []
 tags_exclude = []
 
 # Number of posts to list.
-count = 5
+count = 20
 
 +++
 
