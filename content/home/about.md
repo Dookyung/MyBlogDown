@@ -18,7 +18,7 @@ weight = 5
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
-  course = "PhD candidatae in Real Estate Finance"
+  course = "PhD candidate in Real Estate Finance"
   institution = "Konkuk University"
 
 [[education.courses]]
