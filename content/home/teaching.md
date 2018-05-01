@@ -16,6 +16,6 @@ weight = 60
 +++
 
 ## Current courses:
-- [DS101: Big Data Analytics with R](https://dkkim-r4ds.netlify.com/)
+- :books: [DS101: Big Data Analytics with R](https://dkkim-r4ds.netlify.com/)  &nbsp;&nbsp; [`alpha`](https://dkkim-r4ds.netlify.com/)
 
 ## Previouse courses:
